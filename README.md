@@ -74,7 +74,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autor
 [Leonardo da Silva Costa](https://www.linkedin.com/in/leonardo-costa-b49b8062/)
-Em busca do próximo nível 🚀 - Neve stop learning. 🧑‍🎓
+
+Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓
 
 
 <h4> 
