@@ -33,11 +33,11 @@ Integração com Spring Data
 - [x] Sobre @Autowired
 - [X] Usandoo Spring Data JPA
 Trabalhando com formulário
-- [ ] Formulário de pedido
-- [ ] Salvando pedido
-- [ ] Populando automaticamente
-- [ ] Sobre o DTO
-- [ ] Sobre @RequestMapping
+- [x] Formulário de pedido
+- [x] Salvando pedido
+- [x] Populando automaticamente
+- [x] Sobre o DTO
+- [x] Sobre @RequestMapping
 Trabalhando com Bean Validation
 - [ ] Validação do pedido
 - [ ] Mensagens de erro
