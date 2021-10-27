@@ -6,7 +6,9 @@ Tabela de conteúdos
 
 <!--ts-->
    * [Sobre](#Sobre)
+   * [Features](#Sobre)
    * [Tecnologias](#tecnologias)
+   * [Autor](#Sobre)
 <!--te-->
 
 ---
@@ -15,7 +17,7 @@ Tabela de conteúdos
 	Em construção... 👷
 </h4>
 
-## 💻 Sobre o projeto
+## 💻 Sobre
 
 Esse projeto tem o objetivo de prover um upgrade nas habilidades do autor.
 O foco do projeto é desenvolver uma aplicação Server Side, com o uso de módulos spring e outros ferramentas, como thymeleaf e bootstrap.
