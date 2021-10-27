@@ -27,10 +27,10 @@ O foco do projeto é desenvolver uma aplicação Server Side, com o uso de módu
 - [x] Processando requisição
 Thymeleaf e Bootstrap
 - [x] Criando o modelo
-- [ ] Aplicando bootstrap
+- [x] Aplicando bootstrap
 Integração com Spring Data
-- [ ] Usando JPA puro
-- [ ] Sobre @Autowired
+- [x] Usando JPA puro
+- [x] Sobre @Autowired
 - [ ] Usandoo Spring Data JPA
 Trabalhando com formulário
 - [ ] Formulário de pedido
