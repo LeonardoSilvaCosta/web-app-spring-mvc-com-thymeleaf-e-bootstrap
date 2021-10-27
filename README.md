@@ -9,7 +9,9 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-<h4 align="center"> 
+---
+
+<h4> 
 	Em construção... 👷
 </h4>
 
