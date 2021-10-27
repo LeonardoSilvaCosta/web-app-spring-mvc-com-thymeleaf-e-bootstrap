@@ -12,3 +12,38 @@ Tabela de conteúdos
 <h4 align="center"> 
 	Em construção... 👷
 </h4>
+
+### Features
+
+- [x] Construção do projeto com spring initializr
+- [x] Primeiro controller
+- [ ] Processando requisição
+Thymeleaf e Bootstrap
+- [ ] Criando o modelo
+- [ ] Aplicando bootstrap
+Integração com Spring Data
+- [ ] Usando JPA puro
+- [ ] Sobre @Autowired
+- [ ] Usandoo Spring Data JPA
+Trabalhando com formulário
+- [ ] Formulário de pedido
+- [ ] Salvando pedido
+- [ ] Populando automaticamente
+- [ ] Sobre o DTO
+- [ ] Sobre @RequestMapping
+Trabalhando com Bean Validation
+- [ ] Validação do pedido
+- [ ] Mensagens de erro
+- [ ] Objetivo da anotação @Valid
+Trabalhando com templates
+- [ ] Finalizando o top
+- [ ] Criando template
+- [ ] sobre o th:insert
+Formatação e finalização
+- [ ] Modelando o status
+- [ ] Rota do status
+- [ ] Formatação de número e data
+- [ ] Foward vs Redirect
+- [ ] E o login?
+- [ ] Conclusão
+
