@@ -31,7 +31,7 @@ Thymeleaf e Bootstrap
 Integração com Spring Data
 - [x] Usando JPA puro
 - [x] Sobre @Autowired
-- [ ] Usandoo Spring Data JPA
+- [X] Usandoo Spring Data JPA
 Trabalhando com formulário
 - [ ] Formulário de pedido
 - [ ] Salvando pedido
