@@ -69,6 +69,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Thymeleaf](https://www.thymeleaf.org/)
 - [Intelij IDEA](https://www.jetbrains.com/pt-br/idea/)
 - [Spring devtools](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
+- [java-Dotenv](https://github.com/cdimascio/java-dotenv)
 
 ---
 
