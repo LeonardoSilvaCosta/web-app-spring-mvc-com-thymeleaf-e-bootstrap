@@ -13,10 +13,6 @@ Tabela de conteúdos
 
 ---
 
-<h4> 
-	Em construção... 👷
-</h4>
-
 ## 💻 Sobre
 
 Esse projeto tem o objetivo de prover um upgrade nas habilidades do autor.
@@ -74,3 +70,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [Leonardo da Silva Costa](https://www.linkedin.com/in/leonardo-costa-b49b8062/)
 Em busca do próximo nível 🚀 - Neve stop learning. 🧑‍🎓
 
+
+<h4> 
+	Em construção... 👷
+</h4>
