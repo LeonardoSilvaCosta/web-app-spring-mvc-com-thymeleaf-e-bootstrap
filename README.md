@@ -47,3 +47,14 @@ Formatação e finalização
 - [ ] E o login?
 - [ ] Conclusão
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [JAVA11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
+- [Spring initializr](https://start.spring.io/)
+- [Spring boot](https://spring.io/projects/spring-boot)
+- [Spring MVC](https://https://spring.io/projects/spring-framework)
+- [Spring data jpa](https://spring.io/projects/spring-data-jpa)
+- [Spring security](https://spring.io/projects/spring-security)
+- [Thymeleaf](https://www.thymeleaf.org/)
