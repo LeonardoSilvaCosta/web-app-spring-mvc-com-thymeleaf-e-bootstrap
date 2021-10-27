@@ -54,6 +54,8 @@ Formatação e finalização
 - [ ] E o login?
 - [ ] Conclusão
 
+---
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -65,6 +67,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Spring data jpa](https://spring.io/projects/spring-data-jpa)
 - [Spring security](https://spring.io/projects/spring-security)
 - [Thymeleaf](https://www.thymeleaf.org/)
+
+---
 
 ### Autor
 [Leonardo da Silva Costa](https://www.linkedin.com/in/leonardo-costa-b49b8062/)
