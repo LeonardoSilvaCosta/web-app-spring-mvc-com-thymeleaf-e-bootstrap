@@ -13,6 +13,13 @@ Tabela de conteúdos
 	Em construção... 👷
 </h4>
 
+## 💻 Sobre o projeto
+
+Esse projeto tem o objetivo de prover um upgrade nas habilidades do autor.
+O foco do projeto é desenvolver uma aplicação Server Side, com o uso de módulos spring e outros ferramentas, como thymeleaf e bootstrap.
+
+---
+
 ### Features
 
 - [x] Construção do projeto com spring initializr
