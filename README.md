@@ -67,6 +67,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Spring data jpa](https://spring.io/projects/spring-data-jpa)
 - [Spring security](https://spring.io/projects/spring-security)
 - [Thymeleaf](https://www.thymeleaf.org/)
+- [Intelij IDEA](https://www.jetbrains.com/pt-br/idea/)
+- [Spring devtools](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
 
 ---
 
