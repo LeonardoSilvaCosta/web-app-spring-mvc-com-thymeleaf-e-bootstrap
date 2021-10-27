@@ -24,9 +24,9 @@ O foco do projeto é desenvolver uma aplicação Server Side, com o uso de módu
 
 - [x] Construção do projeto com spring initializr
 - [x] Primeiro controller
-- [ ] Processando requisição
+- [x] Processando requisição
 Thymeleaf e Bootstrap
-- [ ] Criando o modelo
+- [x] Criando o modelo
 - [ ] Aplicando bootstrap
 Integração com Spring Data
 - [ ] Usando JPA puro
