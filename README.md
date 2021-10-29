@@ -39,9 +39,9 @@ Trabalhando com formulário
 - [x] Sobre o DTO
 - [x] Sobre @RequestMapping
 Trabalhando com Bean Validation
-- [ ] Validação do pedido
-- [ ] Mensagens de erro
-- [ ] Objetivo da anotação @Valid
+- [x] Validação do pedido
+- [x] Mensagens de erro
+- [x] Objetivo da anotação @Valid
 Trabalhando com templates
 - [ ] Finalizando o top
 - [ ] Criando template
