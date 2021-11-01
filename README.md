@@ -30,14 +30,14 @@ Thymeleaf e Bootstrap
 - [x] Aplicando bootstrap
 Integração com Spring Data
 - [x] Usando JPA puro
-- [x] Sobre @Autowired
+- [x] Uso do @Autowired
 - [X] Usandoo Spring Data JPA
 Trabalhando com formulário
 - [x] Formulário de pedido
 - [x] Salvando pedido
 - [x] Populando automaticamente
-- [x] Sobre o DTO
-- [x] Sobre @RequestMapping
+- [x] Uso do DTO
+- [x] Uso do @RequestMapping
 Trabalhando com Bean Validation
 - [x] Validação do pedido
 - [x] Mensagens de erro
@@ -45,14 +45,11 @@ Trabalhando com Bean Validation
 Trabalhando com templates
 - [x] Finalizando o topo
 - [x] Criando template
-- [x] sobre o th:insert
-Formatação e finalização
+ZFormatação e finalização
 - [x] Modelando o status
-- [ ] Rota do status
-- [ ] Formatação de número e data
-- [ ] Foward vs Redirect
-- [ ] E o login?
-- [ ] Conclusão
+- [x] Rota do status
+- [x] Formatação de número e data
+
 
 ---
 
@@ -81,5 +78,5 @@ Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓
 
 
 <h4> 
-	Em construção... 👷
+	Finalizado... 👌
 </h4>
