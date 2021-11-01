@@ -78,5 +78,5 @@ Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓
 
 
 <h4> 
-	Finalizado... 👌
+	Finalizado. 👌
 </h4>
