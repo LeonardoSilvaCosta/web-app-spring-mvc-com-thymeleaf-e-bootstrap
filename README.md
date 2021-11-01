@@ -43,11 +43,11 @@ Trabalhando com Bean Validation
 - [x] Mensagens de erro
 - [x] Objetivo da anotação @Valid
 Trabalhando com templates
-- [ ] Finalizando o top
-- [ ] Criando template
-- [ ] sobre o th:insert
+- [x] Finalizando o topo
+- [x] Criando template
+- [x] sobre o th:insert
 Formatação e finalização
-- [ ] Modelando o status
+- [x] Modelando o status
 - [ ] Rota do status
 - [ ] Formatação de número e data
 - [ ] Foward vs Redirect
